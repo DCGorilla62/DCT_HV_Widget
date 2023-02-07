@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "DCT_HV_Widget")(type "KiCad")(uri "${KIPRJMOD}/DCT_HV_Widget.pretty")(options "")(descr ""))
+  (lib (name "LT1468CS8#PBF")(type "KiCad")(uri "${KIPRJMOD}/LT1468CS8#PBF/LT1468CS8#PBF.pretty")(options "")(descr ""))
+  (lib (name "digikey-footprints")(type "KiCad")(uri "/home/calderon-madera.1/Programs/Kicad/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
 )
