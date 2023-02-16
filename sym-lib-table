@@ -119,4 +119,5 @@
   (lib (name "dk_USB-DVI-HDMI-Connectors")(type "KiCad")(uri "/home/calderon-madera.1/Programs/Kicad/digikey-kicad-library/digikey-symbols/dk_USB-DVI-HDMI-Connectors.kicad_sym")(options "")(descr ""))
   (lib (name "LT1468CS8#PBF")(type "KiCad")(uri "${KIPRJMOD}/LT1468CS8#PBF/LT1468CS8#PBF.kicad_sym")(options "")(descr ""))
   (lib (name "OC150G")(type "KiCad")(uri "${KIPRJMOD}/DCT_HV_Widget.pretty/OC150G.kicad_sym")(options "")(descr ""))
+  (lib (name "ZXTN10150DZ")(type "KiCad")(uri "${KIPRJMOD}/DCT_HV_Widget.pretty/ZXTN10150DZ.kicad_sym")(options "")(descr ""))
 )
