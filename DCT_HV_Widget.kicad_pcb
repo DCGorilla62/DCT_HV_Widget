@@ -83,7 +83,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "FLoBBr_Gerbers")
+      (outputdirectory "FLoBBr_Drill")
     )
   )
 
@@ -8369,7 +8369,7 @@
 
   (footprint "LOGO" (layer "B.Cu")
     (tedit 0) (tstamp cda658e9-14da-4359-b98b-ac8264d4f063)
-    (at 163.615556 109.435583 180)
+    (at 160.875 100.075 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "B.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
@@ -50565,8 +50565,8 @@
   (gr_circle (center 173.08 85.852) (end 173.33 85.852) (layer "F.SilkS") (width 0.15) (fill solid) (tstamp 2c10f7d5-aa62-46eb-a39d-bc59e3796b09))
   (gr_line (start 166.116 72.644) (end 175.768 72.644) (layer "F.SilkS") (width 0.15) (tstamp beee5852-9b6d-4e45-97d0-dd4aa0f537ea))
   (gr_rect (start 133.425 69.4) (end 187.375 144) (layer "Edge.Cuts") (width 0.1016) (fill none) (tstamp 87f87cf2-0b24-45be-bb44-c3aed9601148))
-  (gr_text "Fantastic Load Bearing Board\n(FLoBBr)" (at 159.766 83.058) (layer "B.SilkS") (tstamp 3caca898-1665-45bc-b6fe-96b345a9ee64)
-    (effects (font (size 2 2) (thickness 0.4)) (justify mirror))
+  (gr_text "Fantastic Load Bearing Board\n(FLoBBr)" (at 183.875 112.7 90) (layer "B.SilkS") (tstamp 3caca898-1665-45bc-b6fe-96b345a9ee64)
+    (effects (font (size 1.75 1.75) (thickness 0.3)) (justify mirror))
   )
   (gr_text "+" (at 146.925 89.15) (layer "F.SilkS") (tstamp 3a99a4d6-a54b-48fa-9635-2d54597ce6f9)
     (effects (font (size 0.762 0.762) (thickness 0.1524)) (justify mirror))
